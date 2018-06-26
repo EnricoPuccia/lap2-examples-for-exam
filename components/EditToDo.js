@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { View, TextInput } from 'ract-native'
+import { View, TextInput } from 'react-native'
 
 export default class EditToDo extends Component {
   constructor(props) {

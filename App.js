@@ -5,15 +5,14 @@ import ToDoList from './components/ToDoList'
 import AddToDo from './components/AddToDo'
 import EditToDo from './components/EditToDo'
 
-export default createStackNavigator (
+export default createStackNavigator(
   {
     ToDoList: ToDoList,
     AddToDo: AddToDo,
-    EditToDo: EditToDo,
+    EditToDo: EditToDo
   },
   {
     initialRouteName: 'ToDoList',
   }
 )
-
 
