@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "000001",
+      "name": "Sazi e Sani",
+      "address": "Via Sisto 46/48, Catania",
+      "info":
+        "Italiana, Pizza, Mediterranea, aperto anche a pranzo, ottime pizze leggere",
+      "tel": "+39 095 715 9794",
+      "img":
+        "https://media-cdn.tripadvisor.com/media/photo-o/0d/06/2e/52/bey8qhvi1s7ekn7qgibpxyuigzdv9m.jpg",
+      "url": "http://www.saziesani.it/",
+      "tags": ["ristorante", "pizzeria"]
+    },
+    {
+      "id": "000002",
+      "name": "Lido Sayonara",
+      "address": "Viale Dei Lidi 523, 96100 Fontane Bianche, Siracusa",
+      "info": "Bel lido a siracusa, uno dei migliori",
+      "tel": "+39 095 715 9794",
+      "img":
+        "https://media-cdn.tripadvisor.com/media/photo-o/10/04/77/b2/photo0jpg.jpg",
+      "url": "http://www.lidosayonara.com",
+      "tags": ["mare", "beach", "stabilimento"]
+    },
+    {
+      "id": "000003",
+      "name": "Pasticceria Quaranta",
+      "address": " Piazza Mancini Battaglia, 17, 95126 Catania CT",
+      "info":
+        "La pasticceria Quaranta nasce l'8 settembre 1984, un'occasione speciale per i catanesi, in quanto si festeggia la Madonna di Ognina o meglio conosciuta come â€œa festa da Bamminaâ€. La scelta della sede, in piazza Mancini Battaglia, rafforza il legame speciale tra l'azienda e il borgo di Ognina, luogo storico in cui si celebra tutti gli anni la festa e dove storia, tradizione, folklore e religione si fondono in un contesto unico e speciale.",
+      "tel": "+39 095 712 4893",
+      "img":
+        "http://www.pasticceriaquaranta.it/commerce/wp-content/uploads/2018/06/monoporzioni-quaranta.jpg",
+      "url": "http://www.pasticceriaquaranta.it/",
+      "tags": ["bar", "dolci", "Sicilia"]
+    },
+    {
+      "id": "000004",
+      "name": "Giardino Bellini",
+      "address": "via Etnea, tra il 215 e il 217, Catania",
+      "info":
+        "Il Giardino Bellini (o Villa Bellini) Ã¨ uno dei due giardini piÃ¹ antichi e uno dei quattro parchi principali di Catania. Localmente Ã¨ spesso indicato semplicemente come \"'a Villa\"",
+      "tel": "+39 095 715 9794",
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/FontanaVillaBellini.jpg",
+      "url": "https://it.wikipedia.org/wiki/Giardino_Bellini",
+      "tags": ["villa", "garden", "catania"]
+    },
+    {
+      "id": "000005",
+      "name": "Pescaria",
+      "address": "Via Nino Bonnet 5, 20154 Milano",
+      "info":
+        "Un modo tutto nuovo di gustare buon pesce, crudo e fritto\nAperti tutti i giorni dalle 12:30 alle 00:00 con consegna a domicilio su Polignano.\nIn esclusiva per la clientela milanese effettuiamo consegna a domicilio solo attraverso il nostro partner Glovo!",
+      "tel": "+39  02 659 9322",
+      "img":
+        "https://media-cdn.tripadvisor.com/media/photo-o/0e/9b/12/6e/panino-con-gamberoni.jpg",
+      "url": "http://www.pescaria.it/pescaria/it/",
+      "tags": ["panino", "pesce", "streetfood"]
+    }
+  ]
+}
